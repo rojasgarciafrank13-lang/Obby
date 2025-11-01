@@ -1,0 +1,13 @@
+[package]
+name = "frank/robloxproyecto01"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+Promise = "evaera/promise@4.0.0"
+Networker = "l3g5nd/networker@4.1.8"
+Networker = "leifstout/networker@0.3.0"
+[Server-dependencies]
+ProfileService = "firecam702/profileservice@1.0.0"
+
